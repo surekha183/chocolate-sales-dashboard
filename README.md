@@ -31,3 +31,6 @@ Below is a snapshot of the Power BI dashboard:
 
 ## 🚀 Outcome
 This dashboard provides a clear view of business performance and helps in identifying trends for better decision-making.
+
+## 👩‍💻 Created by
+Vaitla Surekha
